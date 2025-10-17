@@ -24,8 +24,13 @@ Gosto de construir soluções práticas, eficientes e com código limpo.
 
 ---
 
-🧩 Desenvolvimento de aplicações web utilizando **JavaScript** e **Python**, bem como **HTML** e **CSS** para estruturação e estilização.  
-Conhecimento das tecnologias principais **React**, **Node**, **Express**, **Django** e **Flask**.
+#### 📱 Mobile
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+🧩 Desenvolvimento de aplicações web e mobile utilizando **JavaScript** e **Python**, bem como **HTML** e **CSS** para estruturação e estilização.  
+Conhecimento das tecnologias principais **React**, **React Native**, **Node**, **Express**, **Django** e **Flask**.
 
 ---
 
