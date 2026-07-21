@@ -29,8 +29,8 @@ Gosto de construir soluções práticas, eficientes e com código limpo.
 
 ---
 
-🧩 Desenvolvimento de aplicações web e mobile utilizando **JavaScript** e **Python**, bem como **HTML** e **CSS** para estruturação e estilização.  
-Conhecimento das tecnologias principais **React**, **React Native**, **Node**, **Express**, **Django** e **Flask**.
+🧩 Desenvolvimento de aplicações web e mobile utilizando **JavaScript**, **Python** e **Dart** bem como **HTML** e **CSS** para estruturação e estilização.  
+Conhecimento das tecnologias principais **React**, **React Native**, **Node**, **Express**, **Django**, **Flask** e **Flutter**.
 
 ---
 
